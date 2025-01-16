@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing really
 - 📫 How to reach me (no)
-- 😄 Pronouns: im guy
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Cheese
 
 <!---
